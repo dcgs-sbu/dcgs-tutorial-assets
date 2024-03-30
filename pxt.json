@@ -1,6 +1,6 @@
 {
-    "name": "Art Pack - DCGS Tutorial Assets",
-    "description": "An asset pack for MakeCode Arcade",
+    "name": "DCGS Tutorial Assets",
+    "description": "A small set of art assets to accompany the DCGS MakeCode Arcade tutorials.",
     "dependencies": {
         "device": "*"
     },
