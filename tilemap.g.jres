@@ -1,0 +1,19 @@
+{
+    "tile1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADvAADvAAAAAGYOAGYOAAARZg4RZg4AAAARDgARDgAAAO8AAO8AAAAAAAAAAAAAAAAAAAAAAAAAAO8AAO8AAAAAZg4AZg4AABFmDhFmDgAAABEOABEOAAAA7wAA7wAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "spikesUp"
+    },
+    "tile2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAADvAADvAAAA8P8O8P8OAADw/w7w/w4AAPD/DvD/DgAAAO8AAO8AAAAAAAAAAAAAAAAAAAAAAAAAAO8AAO8AAADw/w7w/w4AAPD/DvD/DgAA8P8O8P8OAAAA7wAA7wAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true,
+        "displayName": "spikesDown"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myTiles"
+    }
+}
